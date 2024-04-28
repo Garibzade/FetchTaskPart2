@@ -1,0 +1,49 @@
+body{
+  background-color:rgb(6, 65, 105);
+  /* background-image: url('https://media.istockphoto.com/id/1194542294/fi/vektori/realistinen-3d-elokuvanauha-perspektiiviss%C3%A4-eristettyn%C3%A4-siniselle-taustalle.jpg?s=612x612&w=0&k=20&c=TS6CdnJarwWPCEws6-oShp1RVhHhCg7uMIe8Jvc14Ms=');
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  object-fit: cover; */
+
+}
+.navbar{
+    background-color: rgb(6, 62, 99);
+}
+
+.col-md-2{
+  background-color: rgb(235, 237, 245);
+  border-radius: 16px;
+}
+.navbar{
+  background-color: rgb(235, 231, 225);
+}
+
+footer{
+  height: 80px; 
+  display: flex;
+  background-color: #000000;
+
+  color: #656565;
+  justify-content: space-between;
+  align-items: center;
+}
+#foot-ul{
+  width: 450px;
+  justify-content: space-evenly;
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  font-size: 14px
+}
+.foot-li:hover{
+  color: #33747a;
+}
+#milli:hover{
+  opacity: 0.8;
+}
+.foot-hr{
+  height: 20px;
+  color: #656565;
+  opacity: 0.3;
+}
